@@ -1,5 +1,6 @@
-# Machine-learning-project
 # Deepfake Detection Flask App 🔍
+
+# Machine-learning-project
 
 A Flask-based web application that detects whether a video is real or deepfake using a ResNet18-based feature extractor and a logistic regression classifier.
 
