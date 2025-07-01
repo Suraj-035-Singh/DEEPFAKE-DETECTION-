@@ -10,7 +10,8 @@ A Flask-based web application that detects whether a video is real or deepfake u
 - Clean UI with HTML + CSS
 
 ## Setup
-git clone https://github.com/your-username/deepfake-detector.git
 cd deepfake-detector
 pip install -r requirements.txt
 python app.py
+
+![image alt](https://github.com/Suraj-035-Singh/DEEPFAKE-DETECTION-/blob/main/Screenshot%202025-07-01%20115829.png?raw=true)
